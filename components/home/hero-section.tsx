@@ -18,12 +18,13 @@ export default function HeroSection() {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="mb-8 flex justify-center animate-fade-in">
-          <Image 
-            src="/logo.png" 
-            alt="Bihar Vikas Party Logo" 
-            width={120} 
+          <Image
+            src="/logo.png"
+            alt="Bihar Vikas Party Logo"
+            width={120}
             height={120}
             className="h-32 w-auto drop-shadow-lg"
+            priority
           />
         </div>
 

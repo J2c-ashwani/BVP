@@ -60,12 +60,12 @@ export default function ContactContent() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1A1A1A] mb-2">Email</h3>
-                  <a href="mailto:info@biharvikas.party" className="text-[#0C2D72] hover:underline font-medium">
-                    info@biharvikas.party
+                  <a href="mailto:sukashwanikumar@gmail.com" className="text-[#0C2D72] hover:underline font-medium">
+                    sukashwanikumar@gmail.com
                   </a>
                   <p className="text-gray-600 text-sm mt-2">General inquiries</p>
-                  <a href="mailto:media@biharvikas.party" className="text-[#0C2D72] hover:underline font-medium block mt-2">
-                    media@biharvikas.party
+                  <a href="mailto:sukashwanikumar@gmail.com" className="text-[#0C2D72] hover:underline font-medium block mt-2">
+                    sukashwanikumar@gmail.com
                   </a>
                   <p className="text-gray-600 text-sm">Press & media inquiries</p>
                 </div>
@@ -79,8 +79,8 @@ export default function ContactContent() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1A1A1A] mb-2">Phone</h3>
-                  <a href="tel:+919876543210" className="text-[#0C2D72] hover:underline font-medium">
-                    +91 98765 43210
+                  <a href="tel:+917903525592" className="text-[#0C2D72] hover:underline font-medium">
+                    +91 7903525592
                   </a>
                   <p className="text-gray-600 text-sm mt-1">Available 9 AM - 6 PM IST</p>
                 </div>
@@ -223,7 +223,7 @@ export default function ContactContent() {
         <div className="bg-blue-50 rounded-2xl p-8 sm:p-10 text-center border-l-4 border-[#0C2D72]">
           <h3 className="text-2xl font-bold text-[#1A1A1A] mb-3">Media & Press Inquiries</h3>
           <p className="text-gray-700 max-w-2xl mx-auto mb-4">
-            For press & media inquiries, please email us at <a href="mailto:media@biharvikas.party" className="text-[#0C2D72] font-bold hover:underline">media@biharvikas.party</a>. We provide press releases, interview opportunities, and background information to qualified journalists and media organizations.
+            For press & media inquiries, please email us at <a href="mailto:sukashwanikumar@gmail.com" className="text-[#0C2D72] font-bold hover:underline">sukashwanikumar@gmail.com</a>. We provide press releases, interview opportunities, and background information to qualified journalists and media organizations.
           </p>
           <p className="text-sm text-gray-600">
             Response time: Within 24-48 hours for legitimate media inquiries
